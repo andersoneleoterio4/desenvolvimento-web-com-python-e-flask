@@ -17,3 +17,5 @@ app.register_blueprint(cliente_route, url_prefix='/clientes')
     #return render_template ("index.html", titulo=titulo, alunos=alunos)
 
 app.run(debug=True)
+
+#teste
