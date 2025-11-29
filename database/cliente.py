@@ -1,0 +1,22 @@
+CLIENTES=[
+    {'id': 1, 'nome': 'Anderson', 'email': 'anderson@teste.com'},
+    {'id': 2, 'nome': 'Beatriz', 'email': 'beatriz@teste.com'},
+    {'id': 3, 'nome': 'Carlos', 'email': 'carlos@teste.com'},
+    {'id': 4, 'nome': 'Daniela', 'email': 'daniela@teste.com'},
+    {'id': 5, 'nome': 'Eduardo', 'email': 'eduardo@teste.com'},
+    {'id': 6, 'nome': 'Fernanda', 'email': 'fernanda@teste.com'},
+    {'id': 7, 'nome': 'Gabriel', 'email': 'gabriel@teste.com'},
+    {'id': 8, 'nome': 'Helena', 'email': 'helena@teste.com'},
+    {'id': 9, 'nome': 'Igor', 'email': 'igor@teste.com'},
+    {'id': 10, 'nome': 'Juliana', 'email': 'juliana@teste.com'},
+    {'id': 11, 'nome': 'Kauan', 'email': 'kauan@teste.com'},
+    {'id': 12, 'nome': 'Larissa', 'email': 'larissa@teste.com'},
+    {'id': 13, 'nome': 'Marcelo', 'email': 'marcelo@teste.com'},
+    {'id': 14, 'nome': 'Natália', 'email': 'natalia@teste.com'},
+    {'id': 15, 'nome': 'Otávio', 'email': 'otavio@teste.com'},
+    {'id': 16, 'nome': 'Paula', 'email': 'paula@teste.com'},
+    {'id': 17, 'nome': 'Rafael', 'email': 'rafael@teste.com'},
+    {'id': 18, 'nome': 'Sabrina', 'email': 'sabrina@teste.com'},
+    {'id': 19, 'nome': 'Thiago', 'email': 'thiago@teste.com'},
+    {'id': 20, 'nome': 'Vanessa', 'email': 'vanessa@teste.com'}
+]
